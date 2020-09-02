@@ -1,2 +1,2 @@
 # seo-optimization-hw
-SEO optimization homework
+Corrected errors and improved semantics of Horiseon website.
