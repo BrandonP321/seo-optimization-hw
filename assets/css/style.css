@@ -85,6 +85,7 @@ a {
     text-decoration: none;
 }
 
+/* thought it was ok to leave .hero the way it was since the image didn't seem to add any contextual meaning to the page */
 .hero {
     height: 800px;
     width: 100%;
